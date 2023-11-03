@@ -48,8 +48,19 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.02* Merit-based Scholarship of Georgia Tech (top 10%)
+- *2022.02* Merit-based Scholarship of Georgia Tech (top 10%)
+- *2020.12* Shanghai Tobacco Group Charity Education Scholarship (4th year)
+- *2020.11* Shanghai University Scholarship (Academic Excellence, First Class)
+- *2020.10* National Encouragement Scholarship (3rd year)
+- *2020.03* **Meritorious Winner in Mathematical Contest In Modeling & Interdisciplinary Contest In Modeling (MCM/ICM)**
+- *2019.12* Shanghai Tobacco Group Charity Education Scholarship (3rd year)
+- *2019.12* Shanghai University Scholarship (Continuous Self-improvement) 
+- *2019.10* National Encouragement Scholarship (2nd year)
+- *2018.12* Shanghai Tobacco Group Charity Education Scholarship (2nd year)
+- *2018.12* Shanghai University Scholarship (Arts and Sports)
+- *2018.10* National Encouragement Scholarship (1st year)
+- *2017.12* Shanghai Tobacco Group Charity Education Scholarship (1st year)
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
