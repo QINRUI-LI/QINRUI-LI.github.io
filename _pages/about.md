@@ -26,9 +26,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.01 - Now*, Master of Science in Computer Science, Georgia Institute of Technology
 - *2017.09 - 2021.07*, Bachelor of Science in Computer Science and Engineering, Shanghai University
   
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 Research Interests
+- Human-Computer Interaction
+- Social Computing
+- AI in Psychology and Cognitive Science
+- Human-Centered Computing
+
+My research interests span a diverse spectrum of topics in the intersection of computer science and humanities and social sciences (HSS), which aim to bridge the gap between technology and human behavior, social culture, and cognition. Through Interdisciplinary research, I seek to gain deep insights into the profound impact of technology on society, culture, and individuals, and propose solutions to move us toward a more intelligent, inclusive, and human-centric future world.
+
 
 # 📝 Publications 
 
@@ -61,13 +66,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2018.10* National Encouragement Scholarship (1st year)
 - *2017.12* Shanghai Tobacco Group Charity Education Scholarship (1st year)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.07*, Research Sharing Session: Pan-Education for Legal Cognitive Awareness: HCI on Privacy Protection in Apps, Georgia Institute of Technology
+- *2023.02*, Guest of Internship Sharing Session, Academic & Career Center, Georgia Institute of Technology
+- *2021.05*, Guest of “How to apply for a graduate program at USA” Sharing Meeting, School of Computer Engineering and Science, Shanghai University
+- *2019.10*, Cross-Cultural Communication Conference: Examining Sino-American Cultural Differences through the Lens of End-of-Life Education, College of International Exchange, Shanghai University
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships & Working Experience
+- *2022.06 - 2021.10*, HCI Researcher | AI Lab | [DIDI](https://www.didiglobal.com/), China.
+- *2021.07 - 2021.12*, Data & AI Product Manager | Artificial Intelligence Digital Center |  [SHEIN](https://www.shein.com/), China.
+- *2019.05 - 2019.08*, User Researcher | [BANMA Smart Mobility, Alibaba & SAIC](https://www.ebanma.com/), China.
+- 
