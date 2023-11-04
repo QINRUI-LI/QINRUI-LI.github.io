@@ -42,11 +42,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 Pan-Education for Legal Cognitive Awareness: Human-Computer Interaction on Personal Data and Privacy Protection in Applications
 
-**Qinrui Li**
+**Qinrui Li**      *tutored by David D. Joyner, Fandi Peng*
 
 - My research centered on examining user privacy challenges in device application interactions. We introduced a legal education mechanism that incorporates metacognition and cognitive awareness through human-computer interaction methods to assist users in making informed privacy-related decisions. Experimental validation confirmed the effectiveness of this model in achieving legal education objectives.
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/touchword.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+HCI-Based Research on Rehabilitation Training Methods for Dyslexia
+
+**Qinrui Li**, Bin Yuan, Qianqian Wang
+
+- This research is primarily focused on individuals, especially children with reading and language disabilities. Addressing the issues related to unclear text resolution, an intricate pronunciation system, and incoherent spelling encountered during the language learning process, our product proposes an interactive and progressive pedagogical framework. It integrates software and hardware components to ensure the pedagogical experience's scientific validity and effectiveness.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMM 2020</div><img src='images/shibieyongtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,6 +75,7 @@ Pai Zhang, **Qinrui Li**, Hanqing Chen
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MISBP 2020</div><img src='images/chaofenbianlv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,6 +87,19 @@ Jian Chen, Xiang Wang, **Qinrui Li**
 - In our research, we introduced a novel image super-resolution algorithm, RDSRCNN, based on deep learning networks. This algorithm utilizes different-sized convolution kernels to enhance the extraction of fine details from low-resolution images. We employed convolution layers with ELU activation functions to build a residual network, mitigating the gradient vanishing problem, promoting feature reuse, and reducing network redundancy. With performance improved 3.27%.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/BCPW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PlastiProphet: An Environmental Bearing Capacity Model of Plastic Waste Based on Computational Intelligence
+
+**Qinrui Li**, Zhuojun Xiao, Kainan Xue
+
+- We developed a lightweight neural network model, the BCPW Model, for numerical prediction. The model was built using nonlinear regression, analytic hierarchy process, TOPSIS entropy weight method, and logistic regression. Data were collected from 54 countries across various dimensions, and a rigorous selection process in MATLAB identified the top 16 correlated indicators for evaluation. Additionally, I conducted extensive data mining on pollutant emission data spanning two decades to train the Bearing Capacity of Plastic Waste (BCPT) model.
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
