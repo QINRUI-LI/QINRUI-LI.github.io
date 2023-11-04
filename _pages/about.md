@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMM 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMM 2020</div><img src='images/shibieyongtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Research on Vehicle Recognition Algorithm based on Convolution Neural Network](https://iopscience.iop.org/article/10.1088/1742-6596/1865/4/042117/meta)
