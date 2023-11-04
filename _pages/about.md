@@ -37,10 +37,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MISBP 2020</div><img src='images/legaledu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/legaledu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pan-Education for Legal Cognitive Awareness: Human-Computer Interaction on Personal Data and Privacy Protection in Applications]
+Pan-Education for Legal Cognitive Awareness: Human-Computer Interaction on Personal Data and Privacy Protection in Applications
 
 **Qinrui Li**
 
