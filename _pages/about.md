@@ -18,9 +18,14 @@ redirect_from:
 # 🤵🏻 About me
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Master's student in the Interdisciplinary Graduate Program at the School of Computer Science, specializing in Human-Computer Interaction at the Georgia Institute of Technology, starting in the spring of 2022. My research sits at the intersection of machine learning, cognitive science, and human-centric design.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+During my Master's program, I have engaged in several industry-related research endeavors. In 2022, I interned as an HCI researcher at Didi AI Lab, contributing to research in automotive human-computer interaction technology and user safety experiences. In 2021, I worked as a Data AI Product Manager at SHEIN's Artificial Intelligence Digital Center, where my responsibilities included constructing e-commerce user profiles and knowledge graphs, enhancing the interactive experiences of the data platform through labeling. These experiences within the industry have enriched my knowledge in the field and exposed me to the application of human-centric computing in diverse scenarios, further solidifying my research interests and passion.
+
+Before the Master's, I earned my Bachelor's degree in Computer Science and Engineering at Shanghai University in China. During my undergraduate studies, I worked as a research assistant at the Intelligent Perception and Interaction Laboratory at Shanghai University, collaborating with Professor Ying Li and under the guidance of Professor Yuchun Fang and Associate Professor Zhou Lei. From December 2020 to May 2021, I served as an Undergraduate Research Assistant at the Agents, Interaction, and Complexity Research Group in the Department of Computer Science at the University of Southampton, working under the supervision of Dr. Yan Sun.
+
+I am actively seeking opportunities for a Ph.D. program, and I have a keen interest in the fields of Human-Computer Interaction, Computer-Supported Cooperative Work, and the intersection of computer science with the humanities and social sciences. As a computer science major, I firmly believe that technology will ultimately return to a focus on human beings, with a human-centric and ethical approach. In my spare time, I have also delved into the study of law, psychology, and social sciences. I aim to pursue lifelong learning and growth with the goal of becoming an excellent researcher.
+
 
 # 📖 Educations
 - *2022.01 - Now*,  Master of Science in Computer Science, **Georgia Institute of Technology**
@@ -101,7 +106,7 @@ PlastiProphet: An Environmental Bearing Capacity Model of Plastic Waste Based on
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Research on Human Behavior Recognition Based on Skeleton Data, Qinrui Li
 
 # 🎖 Honors and Awards
 - *2023.02* Merit-based Scholarship of Georgia Tech (top 10%)
