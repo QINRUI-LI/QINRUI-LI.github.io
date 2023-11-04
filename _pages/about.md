@@ -37,6 +37,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MISBP 2020</div><img src='images/chaofenbianlv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pan-Education for Legal Cognitive Awareness: HCI on Privacy Protection in Apps]
+
+**Qinrui Li**
+
+- My research centered on examining user privacy challenges in device application interactions. We introduced a legal education mechanism that incorporates metacognition and cognitive awareness through human-computer interaction methods to assist users in making informed privacy-related decisions. Experimental validation confirmed the effectiveness of this model in achieving legal education objectives.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMM 2020</div><img src='images/shibieyongtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
