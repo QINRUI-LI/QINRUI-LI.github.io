@@ -63,7 +63,7 @@ HCI-Based Research on Rehabilitation Training Methods for Dyslexia
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMM 2020</div><img src='images/shibieyongtu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEMM 2021</div><img src='images/shibieyongtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Research on Vehicle Recognition Algorithm based on Convolution Neural Network](https://iopscience.iop.org/article/10.1088/1742-6596/1865/4/042117/meta)
@@ -89,7 +89,7 @@ Jian Chen, Xiang Wang, **Qinrui Li**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/BCPW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM/ICM 2020</div><img src='images/BCPW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PlastiProphet: An Environmental Bearing Capacity Model of Plastic Waste Based on Computational Intelligence
