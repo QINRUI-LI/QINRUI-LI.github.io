@@ -45,19 +45,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 Pai Zhang, **Qinrui Li**, Hanqing Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='13'></span></strong>
+[**Project**](https://iopscience.iop.org/article/10.1088/1742-6596/1865/4/042117/meta) <strong><span class='show_paper_citations' data='13'></span></strong>
 - In pursuit of effective vehicle type identification within intelligent transportation systems, this study introduces a deep learning model for vehicle classification based on transfer learning theory, leveraging the Inception V3 model as its foundation. Both theoretical analysis and experimental outcomes demonstrate superior performance when compared to vehicle classification models based on VGG-16, Xception, and Resnet-50. The experimental results showcase a training accuracy exceeding 96.48% and a test accuracy surpassing 83.86%, underscoring the effectiveness of the proposed approach.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MISBP 2020</div><img src='images/shibieyongtu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MISBP 2020</div><img src='images/chaofenbianlv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Image Super-resolution Algorithm based on Deep Learning Network](https://iopscience.iop.org/article/10.1088/1742-6596/1865/4/042117/meta)
+[Image Super-resolution Algorithm based on Deep Learning Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QM9kv2UAAAAJ&citation_for_view=QM9kv2UAAAAJ:u5HHmVD_uO8C)
 
 Jian Chen, Xiang Wang, **Qinrui Li**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='5'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QM9kv2UAAAAJ&citation_for_view=QM9kv2UAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='5'></span></strong>
 - In our research, we introduced a novel image super-resolution algorithm, RDSRCNN, based on deep learning networks. This algorithm utilizes different-sized convolution kernels to enhance the extraction of fine details from low-resolution images. We employed convolution layers with ELU activation functions to build a residual network, mitigating the gradient vanishing problem, promoting feature reuse, and reducing network redundancy. With performance improved 3.27%.
 </div>
 </div>
