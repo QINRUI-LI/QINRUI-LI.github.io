@@ -23,16 +23,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
-- *2022.01 - Now*, Master of Science in Computer Science, Georgia Institute of Technology
-- *2017.09 - 2021.07*, Bachelor of Science in Computer Science and Engineering, Shanghai University
+- *2022.01 - Now*,  Master of Science in Computer Science, **Georgia Institute of Technology**
+- *2017.09 - 2021.07*,  Bachelor of Science in Computer Science and Engineering, **Shanghai University**
   
 # 🔥 Research Interests
 - Human-Computer Interaction
+- Computer-Supported Cooperative Work
 - AI in Psychology and Cognitive Science
-- Human-Centered Computing
+- Human-Centered Computing / Ubiquitous Computing
 - Social Computing / Computational Social Science
 
-My research interests span a diverse spectrum of topics in the intersection of computer science and humanities and social sciences (HSS), which aim to bridge the gap between technology and human behavior, social culture, and cognition. Through Interdisciplinary research, I seek to gain deep insights into the profound impact of technology on society, culture, and individuals, and propose solutions to move us toward a more intelligent, inclusive, and human-centric future world.
+  My research interests span a diverse spectrum of topics in the intersection of computer science and humanities and social sciences (HSS), which aim to bridge the gap between technology and human behavior, social culture, and cognition. Through Interdisciplinary research, I seek to gain deep insights into the profound impact of technology on society, culture, and individuals, and propose solutions to move us toward a more intelligent, inclusive, and human-centric future world.
 
 
 # 📝 Publications 
