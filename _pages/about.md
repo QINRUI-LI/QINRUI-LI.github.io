@@ -24,7 +24,7 @@ During my Master's program, I have engaged in several industry-related research 
 
 Before the Master's, I earned my Bachelor's degree in Computer Science and Engineering at Shanghai University, China. During my undergraduate studies, I worked as a research assistant at the Intelligent Perception and Interaction Laboratory at Shanghai University, collaborating with Professor Ying Li and under the guidance of Professor Yuchun Fang and Associate Professor Zhou Lei. From December 2020 to May 2021, I served as an Undergraduate Research Assistant at the Agents, Interaction, and Complexity Research Group in the Department of Computer Science at the University of Southampton, working under the supervision of Dr. Yan Sun.
 
-I am actively seeking opportunities for a Ph.D. program, and I have a keen interest in the fields of Human-Computer Interaction, Computer-Supported Cooperative Work, and the intersection of computer science with the humanities and social sciences. As a computer science major, I firmly believe that technology will ultimately return to a focus on human beings, with a human-centric and ethical approach. In my spare time, I have also delved into the study of law, psychology, and social sciences. I aim to pursue lifelong learning and growth with the goal of becoming an excellent researcher.
+I am actively seeking opportunities for a Ph.D. program, and I have a keen interest in the fields of Human-Computer Interaction, Computer-Supported Cooperative Work, and the intersection of computer science with the humanities and social sciences. As a computer science major, I firmly believe that technology will ultimately return to a focus on human beings, with a human-centric and ethical approach. In my spare time, I have also delved into the study of law, psychology, and social sciences. I aim to pursue lifelong learning and growth with the goal of becoming an excellent researcher and faculty.
 
 
 # 📖 Educations
@@ -35,10 +35,10 @@ I am actively seeking opportunities for a Ph.D. program, and I have a keen inter
 - Human-Computer Interaction
 - Computer-Supported Cooperative Work
 - AI in Psychology and Cognitive Science
-- Human-Centered Computing / Ubiquitous Computing
 - Social Computing / Computational Social Science
+- Human-Centered Computing / Ubiquitous Computing
 
-  My research interests span a diverse spectrum of topics in the intersection of computer science and humanities and social sciences (HSS), which aim to bridge the gap between technology and human behavior, social culture, and cognition. Through Interdisciplinary research, I seek to gain deep insights into the profound impact of technology on society, culture, and individuals, and propose solutions to move us toward a more intelligent, inclusive, and human-centric future world.
+  My research interests span a diverse spectrum of topics in the intersection of artificial intelligence and humanities and social sciences (HSS), which aim to bridge the gap between technology and human behavior, social culture, and cognition. Through Interdisciplinary research, I seek to gain deep insights into the profound impact of technology on society, culture, and individuals, and propose solutions to move us toward a more intelligent, inclusive, and human-centric future world.
 
 
 # 📝 Publications 
