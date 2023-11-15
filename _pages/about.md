@@ -130,6 +130,6 @@ PlastiProphet: An Environmental Bearing Capacity Model of Plastic Waste Based on
 - *2019.10*, Cross-Cultural Communication Conference: Examining Sino-American Cultural Differences through the Lens of End-of-Life Education, College of International Exchange, Shanghai University
 
 # 💻 Internships
-- *2022.06 - 2021.10*, HCI Researcher, AI Lab, [DIDI](https://www.didiglobal.com/)
+- *2022.06 - 2022.10*, HCI Researcher, AI Lab, [DIDI](https://www.didiglobal.com/)
 - *2021.07 - 2021.12*, Data & AI Product Manager, Artificial Intelligence Digital Center (AIDC),  [SHEIN](https://www.shein.com/)
 - *2019.05 - 2019.08*, User Researcher, UX and Intelligent Interaction Center, [BANMA Smart Mobility, Alibaba & SAIC](https://www.ebanma.com/)
