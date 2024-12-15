@@ -131,6 +131,6 @@ PlastiProphet: An Environmental Bearing Capacity Model of Plastic Waste Based on
 
 # 💻 Internships
 - *2022.06 - 2022.10*, HCI Researcher/AI Product Manager, AI Lab, TIG Group, [DIDI](https://www.didiglobal.com/)
-- *2022.02 - 2022.05*, Data & AI Product Manager, Artificial Intelligence Digital Center (AIDC), [SHEIN](https://www.shein.com/)
+- *2022.02 - 2022.05*, Data & AI Product Manager, Artificial Intelligence & International Digital Center (AIDC), [SHEIN](https://www.shein.com/)
 - *2021.09 - 2021.12*, Data Engineer, Technology & Development Group, [Chengdu Surveying Geotechnical Research Institute](https://www.mcc-yck.com/7n4qgodwjp6mcd8gvbbhb.asp)
 - *2019.05 - 2019.08*, User Researcher/Product Manager, UX and Intelligent Interaction Center, [BANMA Smart Mobility, Alibaba & SAIC](https://www.ebanma.com/)
